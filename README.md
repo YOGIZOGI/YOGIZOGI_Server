@@ -1,2 +1,2 @@
-# GamSikE_Server
-GamSikE_Team Server
+# YOGIZOGI_Server
+YOGIZOGI_Team Server
